@@ -1,4 +1,4 @@
-# ----------  I think this Pattern is looks like a house !!!  --------
+# ----------  I think this Pattern is looks like a Home !!!  --------
 
 num1 = 8
 for i in range(num1):
