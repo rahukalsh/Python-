@@ -1,0 +1,5 @@
+
+In this Python programming tutorial, we will see complete Python from scratch.
+This Python course is beginner-friendly which means that any Python beginner 
+start learning from this Course. I will start this course from zero
+and then we will look into the advanced python concepts.

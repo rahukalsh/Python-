@@ -1,0 +1,3 @@
+This Python completed course is divided into 13 chapters 
+and 3 projects. All the source code and PDF notes are available for download
+Python Cheatsheet is here

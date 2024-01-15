@@ -1,0 +1,2 @@
+this is automatically created  file by  write function
+this is the second line and we can create or call multiple times
