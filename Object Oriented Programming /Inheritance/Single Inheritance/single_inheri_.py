@@ -1,3 +1,5 @@
+#------------  Single Inheritance ---------------------
+
 class Casting:
     def __init__(self, reel_name, hero_name):
         self.reel_name = reel_name
